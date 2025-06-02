@@ -8,12 +8,19 @@ To interface a digital output device (LED) with the Raspberry Pi Pico and contro
 
 ## APPARATUS REQUIRED
 Raspberry Pi Pico
+
 LED (Light Emitting Diode)
+
 330Ω Resistor
+
 Breadboard
+
 Jumper Wires
+
 USB Cable
+
 Computer with Thonny IDE
+
 ## THEORY
 ![image](https://github.com/user-attachments/assets/bb512da9-e631-466a-8773-ae833200a13c)
 
